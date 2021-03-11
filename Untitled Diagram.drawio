@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T06:07:30.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" version="14.4.7" etag="mfFE6srsU1lESmV5wJh5" type="github"><diagram id="h7zW6cEX3b1i7xJRlMwG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-11T06:40:43.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="KeUtf9CBPEq_rSmMO0e8" version="14.4.7" type="github">
+  <diagram id="h7zW6cEX3b1i7xJRlMwG" name="Page-1">
+    <mxGraphModel dx="920" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H3Y03DRPhON1NCWGCjlx-3" value="start&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H3Y03DRPhON1NCWGCjlx-5" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;display jsons in Postman with Url&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H3Y03DRPhON1NCWGCjlx-8" value="display all data in table" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H3Y03DRPhON1NCWGCjlx-9" value="if getdata" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H3Y03DRPhON1NCWGCjlx-10" value="if create" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H3Y03DRPhON1NCWGCjlx-11" value="create data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H3Y03DRPhON1NCWGCjlx-12" value="if delete" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H3Y03DRPhON1NCWGCjlx-13" value="delete data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="251" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H3Y03DRPhON1NCWGCjlx-14" value="if update" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H3Y03DRPhON1NCWGCjlx-15" value="update data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="251" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H3Y03DRPhON1NCWGCjlx-17" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Create Table with 5 input texts and two buttons for each row&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H3Y03DRPhON1NCWGCjlx-18" value="set id for each text and edit for button1 , ancel for button2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H3Y03DRPhON1NCWGCjlx-19" value="get option" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H3Y03DRPhON1NCWGCjlx-20" value="get option" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H3Y03DRPhON1NCWGCjlx-21" value="if getdata" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
